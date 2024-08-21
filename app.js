@@ -1,12 +1,12 @@
 // javascript to compare two user inputs
 
 // prompts to accept user inputs
-// let userInput1 = parseInt(prompt("Please input the first number for comparing."))
-// let userInput2 = parseInt(prompt("Please input the second number for comparing."))
+let userInput1 = parseInt(prompt("Please input the first number for comparing."))
+let userInput2 = parseInt(prompt("Please input the second number for comparing."))
 
-// let comparison = userInput1 > userInput2 ? `User1 input value of ${userInput1} is greater than User2 input value of ${userInput2}`:`User1 input value of ${userInput1} is less than User2 input value of ${userInput2}`;
+let comparison = userInput1 > userInput2 ? `User1 input value of ${userInput1} is greater than User2 input value of ${userInput2}`:`User1 input value of ${userInput1} is less than User2 input value of ${userInput2}`;
 
-// alert(comparison);
+alert(comparison);
 
 // javascript to compare three user inputs
 
